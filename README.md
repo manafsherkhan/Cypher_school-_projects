@@ -1,2 +1,2 @@
 # Cypher_school-_projects
-Cypher school
+Cipher Schools Assignment Repo. for C++ Assignments . By Manaf Sherjada Khan Singh 12207220
